@@ -6,9 +6,9 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 
 ---
 
-<!-- DO NOT EDIT BELOW THIS LINE -->
-
 ## Challenge Tasks
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
 
 1. [How many 5-letter words are there?](tasks/5-letter-words.md)
 1. [What's the most common word length in English?](tasks/most-common-word-len.md)
@@ -17,5 +17,8 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 
 ---
 
+## Share your success!
+
+You are encouraged to post a screenshot or description of your output (but not the actual code!) to [the MiniScript Discord server](https://discord.gg/7s6zajx), in the `#show-and-tell` channel.  We want to cheer you on!
 
 Remember: **There is no such thing as natural talent.**  "Talented" means nothing more or less than "has more practice than you."  Practice coding every day, and *you* will be a talented coder!
