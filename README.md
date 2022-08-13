@@ -10,8 +10,8 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 
 ## Challenge Tasks
 
-1. [How many 5-letter words are there?](5-letter-words.md)
-1. [What's the most common word length in English?](most-common-word-len.md)
+1. [How many 5-letter words are there?](tasks/5-letter-words.md)
+1. [What's the most common word length in English?](tasks/most-common-word-len.md)
 
 <!-- DO NOT EDIT ABOVE THIS LINE -->
 
