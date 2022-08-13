@@ -6,11 +6,16 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 
 ---
 
-<!-- DO NOT EDIT BELOW THIS LINE
+<!-- DO NOT EDIT BELOW THIS LINE -->
 
+## Challenge Tasks
 
-DO NOT EDIT ABOVE THIS LINE --!>
+1. [How many 5-letter words are there?](5-letter-words.md)
+1. [What's the most common word length in English?](most-common-word-len.md)
+
+<!-- DO NOT EDIT ABOVE THIS LINE -->
 
 ---
+
 
 Remember: **There is no such thing as natural talent.**  "Talented" means nothing more or less than "has more practice than you."  Practice coding every day, and *you* will be a talented coder!
