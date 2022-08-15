@@ -2,7 +2,14 @@
 
 Tags: minimicro, farmtronics, commandline
 
-Create a program that converts between temperature units by taking a temperature, the original unit it is in, and a target unit, and converting the orginal temperature to the target unit.
+Create a program that converts between temperature units by taking a temperature, including the unit it is in (C, F, or K for Celsius, Farenheit, and Kelvin respectively), and then a target unit, and converting the orginal temperature to the target unit.
+
+Example:
+```
+Temperature? 24 C
+Target unit? F
+24 C is 75.2 F.
+```
 
 <details>
 <summary>Hints</summary>
