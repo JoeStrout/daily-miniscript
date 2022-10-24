@@ -18,6 +18,7 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 1. [Make a giant clock](tasks/clock.md)
 1. [Make A Temperature Unit Converter](tasks/temperature.md)
 1. [Warp Speed!](tasks/warpSpeed.md)
+1. [Roman numeral generator](tasks/decToRoman.md)
 1. [Wordle!](tasks/wordle.md)
 
 <!-- DO NOT EDIT ABOVE THIS LINE -->
