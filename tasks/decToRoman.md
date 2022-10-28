@@ -4,7 +4,7 @@ Tags: minimicro, farmtronics, commandline, tryit
 
 You have decided to start a movie company.  You quickly realize that the most difficult part will be writing the copyright year in Roman numerals in the credits.  MiniScript to the rescue!
 
-Write a `decToRoman` function that can convert any integer from 1 to 3999 into Roman numerals using [https://en.wikipedia.org/wiki/Roman_numerals#Standard_form](standard form) (including IV for 5, IX for 9, etc.).  Check your work on the following test cases:
+Write a `decToRoman` function that can convert any integer from 1 to 3999 into Roman numerals using [standard form](https://en.wikipedia.org/wiki/Roman_numerals#Standard_form) (including IV for 5, IX for 9, etc.).  Check your work on the following test cases:
 
 ```
 39: XXXIX
