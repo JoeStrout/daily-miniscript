@@ -2,7 +2,7 @@
 
 Tags: minimicro, farmtronics, commandline
 
-Create a program that takes a string as input and ouputs it in [https://en.wikipedia.org/wiki/Morse_code](Morse code), printing "." for each dot and "-" for each dash, with spaces between the letters.
+Create a program that takes a string as input and ouputs it in [Morse code](https://en.wikipedia.org/wiki/Morse_code), printing "." for each dot and "-" for each dash, with spaces between the letters.
 
 Example:
 
