@@ -14,10 +14,12 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 1. [What's the most common word length in English?](tasks/most-common-word-len.md)
 1. [Make a date calculator](tasks/dateCalc.md)
 1. [Letter value sum](tasks/letterSum.md)
+1. [Autocomplete](tasks/autocomplete.md)
 1. [Convert Text to Morse Code](tasks/morse.md)
 1. [Make a giant clock](tasks/clock.md)
 1. [Make A Temperature Unit Converter](tasks/temperature.md)
 1. [Warp Speed!](tasks/warpSpeed.md)
+1. [Anagram Finder](tasks/anagrams.md)
 1. [Roman numeral generator](tasks/decToRoman.md)
 1. [Wordle!](tasks/wordle.md)
 
