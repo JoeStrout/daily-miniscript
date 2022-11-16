@@ -38,11 +38,11 @@ But note that sometimes, the rest of the string won't start with a valid word.  
 In pseudocode, a sketch of your central _splitWords_ function would be:
 
 1. If the given string is empty, return []
-2. for each possible word in our word list
-  1. if s doesn't start with this word, then continue
-  2. recursively call _splitWords_ on the rest of the string AFTER this word
-  3. if that returned null, continue
-  4. otherwise, insert this word at the front of the list, and return it
+2. for each possible word in our word list:
+   1. if s doesn't start with this word, then continue
+   2. recursively call _splitWords_ on the rest of the string AFTER this word
+   3. if that returned null, continue
+   4. otherwise, insert this word at the front of the list, and return it
 3. if we go through all words and haven't returned already, return null
 
 Once you have this function working, it's just a matter of calling `.join` on the result to insert the spaces.  (Alternatively, you could skip the list and just use string concatenation to build the properly spaced result as you go.)
