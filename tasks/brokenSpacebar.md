@@ -16,15 +16,19 @@ Write a program that inputs a sentence composed of these words, with no punctuat
 Here are some test cases your code should handle:
 
 >INPUT:  thequickbrownfoxjumpedoverthelazydog
+>
 >OUTPUT: the quick brown fox jumped over the lazy dog
->
+
 >INPUT:  anewaperanpastthesleepyfox
+>
 >OUTPUT: a new ape ran past the sleepy fox
->
+
 >INPUT:  thedogsrantaboutthelazyfoxes
->OUTPUT: the dogs rant about the lazy foxes
 >
+>OUTPUT: the dogs rant about the lazy foxes
+
 >INPUT:  foxesranpastanape
+>
 >OUTPUT: foxes ran past an ape
 
 
