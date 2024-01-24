@@ -1,6 +1,6 @@
 # Make a date calculator 
 
-Tags: minimicro, farmtronics
+Tags: minimicro, farmtronics, commandline
 
 Need a date?  Write a program that uses the [`dateTime` module](https://github.com/JoeStrout/minimicro-sysdisk/blob/master/sys/lib/dateTime.ms) to calculate the date for any given number of days after (or before) the current date.
 
@@ -9,7 +9,7 @@ Need a date?  Write a program that uses the [`dateTime` module](https://github.c
 <details>
 <summary>Hints</summary>
 
-Start with `import "dateTime"` (on Mini Micro or Farmtronics).  It provides methods to convert back and forth between two ways of representing a date/time:
+Start with `import "dateTime"` (in Mini Micro, Farmtronics, or command-line MiniScript).  This provides methods to convert back and forth between two ways of representing a date/time:
 
 1. A numeric value, the number of seconds since January 1, 2000; and
 2. A string value like `"2022-08-13 14:03:39"`
