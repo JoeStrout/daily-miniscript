@@ -23,6 +23,7 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 1. [Broken Spacebar](tasks/brokenSpacebar.md)
 1. [Roman numeral generator](tasks/decToRoman.md)
 1. [Wordle!](tasks/wordle.md)
+1. [Word Search](tasks/wordSearch.md)
 
 <!-- DO NOT EDIT ABOVE THIS LINE -->
 
