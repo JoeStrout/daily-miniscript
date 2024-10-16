@@ -2,7 +2,7 @@
 
 Tags: minimicro, farmtronics
 
-Certain English letters appear the same in a mirror as they do normally.  Any word using only these letters -- like TOMATO for example -- and written in reverse order, will appear normal when read in a mirror!
+Certain English letters appear the same in a mirror as they do normally.  Any word using only these letters — like TOMATO for example — and written in reverse order, will appear normal when read in a mirror!
 
 <b>How many English words are there that use only the letters A, H, I, M, O, T, U, V, W, X, and Y?</b>
 
