@@ -6,6 +6,8 @@ A _moiré pattern_ is an interesting pattern that can appear when you draw a ser
 
 ![Screen shot](starMoire.png)
 
+(Note: when viewed inline above, it may be less than full size, which changes the Moiré pattern significantly.  You might be able to see it properly by following [this link](starMoire.png).)
+
 This has 200 lines, evenly spaced around a circle 300 pixels in radius.  The colors interpolate between yellow and blue six times around the circle.
 
 <details>
