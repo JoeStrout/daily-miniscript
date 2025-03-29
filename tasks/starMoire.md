@@ -17,5 +17,5 @@ This has 200 lines, evenly spaced around a circle 300 pixels in radius.  The col
 - Use `cos` and `sin` to calculate the amount of x and y (on a scale of -1 to 1) there is at each angle.
 - Multiply these by the radius, and add to your center point, to find the endpoint of the line.
 - For the color, use `cos` again... but this time, multiply your angle by 6, so that the value cycles six times over the course of the loop.
-- To interpolate between two colors, use `color.lerp`.
+- To interpolate between two colors, use [`color.lerp`](https://miniscript.org/wiki/Color.lerp).
 </details>
