@@ -25,6 +25,7 @@ This site presents a bunch of little programming tasks you can do in MiniScript.
 1. [Wordle!](tasks/wordle.md)
 1. [Word Search](tasks/wordSearch.md)
 1. [Mirror Words](tasks/mirrorWords.md)
+1. [Star Moiré](tasks/starMoire.md)
 
 <!-- DO NOT EDIT ABOVE THIS LINE -->
 
